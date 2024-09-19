@@ -1,0 +1,10 @@
+{
+    "name": "Meshtastic-client",
+    "description": "The Meshtastic Web Client allows users to manage and interact with Meshtastic devices through their web browser, offering features like viewing device status, sending messages, configuring settings, and monitoring the mesh network's performance.",
+    "longDescription": "<p>Meshtastic Web Client is a browser-based interface that interacts with the Meshtastic project, which is an open-source, long-range, decentralized communication platform. Meshtastic uses low-power, LoRa (Long Range) radios to create a mesh network, enabling communication without relying on cellular or Wi-Fi infrastructure.</p>",
+    "tags": ["mesh", "zigbee", "messaging", "social"],
+    "repository": "https://github.com/meshtastic/web",
+    "image": "https://github.com/meshtastic/web/pkgs/container/web",
+    "supported_architectures": ["amd64", "arm64"]
+  }
+  
